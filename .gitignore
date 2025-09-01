@@ -1,0 +1,14 @@
+# Build outputs
+bin/
+obj/
+
+# IDE / Rider / VSCode
+.idea/
+.vscode/
+
+# OS
+.DS_Store
+
+# User-specific
+*.user
+*.suo
